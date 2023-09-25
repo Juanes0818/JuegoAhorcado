@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ahor2", "Ahor2\Ahor2.csproj", "{A750F96A-239C-4C29-9604-A4067944F772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A750F96A-239C-4C29-9604-A4067944F772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A750F96A-239C-4C29-9604-A4067944F772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A750F96A-239C-4C29-9604-A4067944F772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A750F96A-239C-4C29-9604-A4067944F772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {937F2DDD-E22E-4DC4-9BCB-33BF9E101218}
+	EndGlobalSection
+EndGlobal
